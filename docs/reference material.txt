@@ -1,0 +1,4 @@
+1. Arduino DC Motor Control with L293D Motor Driver | Speed & Direction Control (Complete Tutorial)
+https://www.youtube.com/watch?v=P-4ZkdDzebY
+
+2.
